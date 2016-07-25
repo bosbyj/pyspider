@@ -1,7 +1,7 @@
 About Tasks
 ===========
 
-tasks are the basic unit to been scheduled.
+Tasks are the basic unit to be scheduled.
 
 Basis
 -----
